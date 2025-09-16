@@ -1,0 +1,7 @@
+../Core/Src/komunikacjaPC2.c:29:6:myprintf	16	static
+../Core/Src/komunikacjaPC2.c:40:6:HAL_UART_RxCpltCallback	4	static
+../Core/Src/komunikacjaPC2.c:87:6:calculateCrc	8	static
+../Core/Src/komunikacjaPC2.c:50:6:createDummyData	32	static
+../Core/Src/komunikacjaPC2.c:97:6:sendStructure	0	static
+../Core/Src/komunikacjaPC2.c:150:6:saveDataToStruct	16	static
+../Core/Src/komunikacjaPC2.c:105:6:checkForData	24	static

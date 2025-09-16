@@ -1,0 +1,4 @@
+../Core/Src/regulator.c:23:6:regulatorPI	8
+../Core/Src/regulator.c:64:7:compensate	7
+../Core/Src/regulator.c:155:6:MCP3561T_1_Init	1
+../Core/Src/regulator.c:204:6:MCP3561T_2_Init	2

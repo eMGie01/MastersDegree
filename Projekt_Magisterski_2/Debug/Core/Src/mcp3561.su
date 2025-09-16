@@ -1,0 +1,3 @@
+../Core/Src/mcp3561.c:7:13:MCP3561_WriteRegister	24	static
+../Core/Src/mcp3561.c:15:6:MCP3561_Init	16	static
+../Core/Src/mcp3561.c:49:7:MCP3561_ReadVoltage	24	static

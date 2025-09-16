@@ -1,0 +1,9 @@
+../Core/Src/komunikacjaPC2.c:42:6:myprintf	1
+../Core/Src/komunikacjaPC2.c:53:6:HAL_UART_RxCpltCallback	3
+../Core/Src/komunikacjaPC2.c:63:6:createDummyData	1
+../Core/Src/komunikacjaPC2.c:104:6:calculateCrc	2
+../Core/Src/komunikacjaPC2.c:114:6:sendStructure	1
+../Core/Src/komunikacjaPC2.c:122:6:checkForData	9
+../Core/Src/komunikacjaPC2.c:169:6:saveDataToStruct	1
+../Core/Src/komunikacjaPC2.c:190:6:EEPROM_Save_Partial	1
+../Core/Src/komunikacjaPC2.c:224:6:EEPROM_Load_Partial	1
